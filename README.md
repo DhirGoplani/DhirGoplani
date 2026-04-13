@@ -33,7 +33,7 @@ I am actively learning, building projects, and expanding my understanding of bot
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DhirGoplani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DhirGoplani&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhirGoplani&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhirGoplani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
